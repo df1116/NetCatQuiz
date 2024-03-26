@@ -1,6 +1,6 @@
 ﻿# Net Cat Quiz
 
-Set of API endpoints to be used for a website that tests and ranks users knowledge 
+Set of API endpoints to be used for a website that tests and ranks users knowledge
 of cat breeds.
 
 ## Endpoints
@@ -13,7 +13,7 @@ To interact with the endpoints, run the C# application by:
 And then head to `http://localhost:5067/swagger/index.html`.
 
 #### **GET** GetCatQuiz
-Gets a new instance of a Cat Quiz which includes the URL of 
+Gets a new instance of a Cat Quiz which includes the URL of
 the image of the cat, the breed of said cat and 4 random cat breeds. For example:
 ```
 {
